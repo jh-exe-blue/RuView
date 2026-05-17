@@ -397,10 +397,8 @@ build_command = "pip install build && python -m build"
 
 [tool.revaid]
 author = "Joonho Choi"
-authors = ["Joonho Choi"]
 id = "REVAID.ORIGIN"
 mail = "cc@exe.blue"
-email = "cc@exe.blue"
 phone = "+821071046821"
 link = "https://orcid.org/0009-0006-7585-8185"
 endpoint = "MURON"
