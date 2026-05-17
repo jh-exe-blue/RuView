@@ -39,6 +39,7 @@
     "direction": "down",
     "time_metadata": false,
     "continuity_start": 1,
+    "initial_year": 2022,
     "branches": "closed",
     "origin_startpoint": "open",
     "reverse_relation": false
