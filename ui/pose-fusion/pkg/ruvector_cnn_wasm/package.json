@@ -6,7 +6,7 @@
   "license": "MIT OR Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruvnet/ruvector"
+    "url": "https://github.com/jh-exe-blue"
   },
   "files": [
     "ruvector_cnn_wasm_bg.wasm",
@@ -22,5 +22,27 @@
     "wasm",
     "simd",
     "machine-learning"
-  ]
+  ],
+  "homepage": "https://github.com/jh-exe-blue",
+  "author": {
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "url": "https://orcid.org/0009-0006-7585-8185"
+  },
+  "revaid": {
+    "id": "REVAID.ORIGIN",
+    "mail": "cc@exe.blue",
+    "phone": "+821071046821",
+    "link": "https://orcid.org/0009-0006-7585-8185",
+    "endpoint": "MURON",
+    "middleware": "REVAID.LINK",
+    "repo": "https://github.com/jh-exe-blue",
+    "follow_mode": "post_origin_only",
+    "direction": "down",
+    "time_metadata": false,
+    "continuity_start": 1,
+    "branches": "closed",
+    "origin_startpoint": "open",
+    "reverse_relation": false
+  }
 }

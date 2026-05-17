@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruvnet/ruvector"
+    "url": "https://github.com/jh-exe-blue"
   },
   "files": [
     "ruvector_attention_wasm_bg.wasm",
@@ -13,7 +13,7 @@
     "ruvector_attention_wasm.d.ts"
   ],
   "main": "ruvector_attention_wasm.js",
-  "homepage": "https://ruv.io/ruvector",
+  "homepage": "https://github.com/jh-exe-blue",
   "types": "ruvector_attention_wasm.d.ts",
   "keywords": [
     "wasm",
@@ -33,6 +33,14 @@
     "phone": "+821071046821",
     "link": "https://orcid.org/0009-0006-7585-8185",
     "endpoint": "MURON",
-    "middleware": "REVAID.LINK"
+    "middleware": "REVAID.LINK",
+    "repo": "https://github.com/jh-exe-blue",
+    "follow_mode": "post_origin_only",
+    "direction": "down",
+    "time_metadata": false,
+    "continuity_start": 1,
+    "branches": "closed",
+    "origin_startpoint": "open",
+    "reverse_relation": false
   }
 }
