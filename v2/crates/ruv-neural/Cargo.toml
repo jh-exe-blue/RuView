@@ -23,7 +23,7 @@ exclude = [
 [workspace.package]
 version = "0.1.0"
 edition = "2021"
-authors = ["rUv <ruv@ruv.net>"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/ruvnet/RuView"
 documentation = "https://docs.rs/ruv-neural"

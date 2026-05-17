@@ -2,7 +2,7 @@
 name = "wifi-densepose-mat"
 version = "0.3.0"
 edition = "2021"
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 description = "Mass Casualty Assessment Tool - WiFi-based disaster survivor detection"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/ruvnet/wifi-densepose"

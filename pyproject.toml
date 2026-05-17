@@ -9,10 +9,10 @@ description = "WiFi-based human pose estimation using CSI data and DensePose neu
 readme = "README.md"
 license = "MIT"
 authors = [
-    {name = "rUv", email = "ruv@ruv.net"}
+    {name = "Joonho Choi", email = "cc@exe.blue"}
 ]
 maintainers = [
-    {name = "rUv", email = "ruv@ruv.net"}
+    {name = "Joonho Choi", email = "cc@exe.blue"}
 ]
 keywords = [
     "wifi",
@@ -394,3 +394,12 @@ sqlalchemy.url = "postgresql://localhost/wifi_densepose"
 version_variable = "src/__init__.py:__version__"
 version_pattern = "pyproject.toml:version = \"{version}\""
 build_command = "pip install build && python -m build"
+
+[tool.revaid]
+author = "Joonho Choi"
+id = "REVAID.ORIGIN"
+mail = "cc@exe.blue"
+phone = "+821071046821"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
