@@ -1,8 +1,5 @@
 {
   "name": "ruvector-attention-wasm",
-  "collaborators": [
-    "Ruvector Team"
-  ],
   "description": "High-performance WebAssembly attention mechanisms: Multi-Head, Flash, Hyperbolic, MoE, CGT Sheaf Attention with GPU acceleration for transformers and LLMs",
   "version": "2.0.5",
   "license": "MIT",
@@ -16,7 +13,7 @@
     "ruvector_attention_wasm.d.ts"
   ],
   "main": "ruvector_attention_wasm.js",
-  "homepage": "https://ruv.io/ruvector",
+  "homepage": "https://orcid.org/0009-0006-7585-8185",
   "types": "ruvector_attention_wasm.d.ts",
   "keywords": [
     "wasm",
@@ -24,5 +21,21 @@
     "transformer",
     "flash-attention",
     "llm"
-  ]
+  ],
+  "author": {
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "url": "https://orcid.org/0009-0006-7585-8185"
+  },
+  "revaid": {
+    "origin": {
+      "id": "REVAID.ORIGIN",
+      "name": "Joonho Choi",
+      "email": "cc@exe.blue",
+      "phone": "+821071046821",
+      "link": "https://orcid.org/0009-0006-7585-8185",
+      "endpoint": "MURON",
+      "middleware": "REVAID.LINK"
+    }
+  }
 }

@@ -4,11 +4,21 @@ version.workspace = true
 edition.workspace = true
 description = "Database layer for WiFi-DensePose"
 license.workspace = true
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 repository.workspace = true
 documentation.workspace = true
 keywords = ["wifi", "database", "storage", "densepose", "persistence"]
 categories = ["database", "science"]
 readme = "README.md"
+
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+phone = "+821071046821"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 
 [dependencies]

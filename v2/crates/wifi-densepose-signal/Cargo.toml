@@ -4,12 +4,22 @@ version.workspace = true
 edition.workspace = true
 description = "WiFi CSI signal processing for DensePose estimation"
 license.workspace = true
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 repository.workspace = true
 documentation = "https://docs.rs/wifi-densepose-signal"
 keywords = ["wifi", "csi", "signal-processing", "densepose", "rust"]
 categories = ["science", "computer-vision"]
 readme = "README.md"
+
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+phone = "+821071046821"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 
 [features]
 default = ["eigenvalue"]

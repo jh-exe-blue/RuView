@@ -37,12 +37,22 @@ exclude = [
 [workspace.package]
 version = "0.3.0"
 edition = "2021"
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/ruvnet/wifi-densepose"
 documentation = "https://docs.rs/wifi-densepose"
 keywords = ["wifi", "densepose", "csi", "pose-estimation", "rust"]
 categories = ["science", "computer-vision", "wasm"]
+
+
+[workspace.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+phone = "+821071046821"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
 
 [workspace.dependencies]
 # Core utilities
