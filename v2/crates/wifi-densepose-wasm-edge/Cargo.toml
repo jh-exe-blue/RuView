@@ -12,6 +12,14 @@ categories = ["embedded", "wasm", "science"]
 [lib]
 crate-type = ["cdylib", "rlib"]
 
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 [dependencies]
 # no_std math
 libm = "0.2"

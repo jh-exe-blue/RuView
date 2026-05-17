@@ -11,6 +11,15 @@ keywords = ["wifi", "vital-signs", "breathing", "heart-rate", "csi"]
 categories = ["science", "computer-vision"]
 readme = "README.md"
 
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
+
 [dependencies]
 tracing.workspace = true
 serde = { workspace = true, optional = true }

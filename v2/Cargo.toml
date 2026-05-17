@@ -44,6 +44,16 @@ documentation = "https://docs.rs/wifi-densepose"
 keywords = ["wifi", "densepose", "csi", "pose-estimation", "rust"]
 categories = ["science", "computer-vision", "wasm"]
 
+# Internal REVAID origin metadata for tooling that needs a canonical
+# owner record plus the endpoint/middleware identifiers supplied by ORIGIN.
+[workspace.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 [workspace.dependencies]
 # Core utilities
 thiserror = "1.0"

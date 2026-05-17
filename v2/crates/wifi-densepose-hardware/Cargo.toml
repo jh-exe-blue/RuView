@@ -11,6 +11,15 @@ keywords = ["wifi", "esp32", "csi", "hardware", "sensor"]
 categories = ["hardware-support", "science"]
 readme = "README.md"
 
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
+
 [features]
 default = ["std"]
 std = []

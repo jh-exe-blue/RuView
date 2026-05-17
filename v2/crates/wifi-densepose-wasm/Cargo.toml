@@ -11,6 +11,15 @@ keywords = ["wifi", "wasm", "webassembly", "densepose", "browser"]
 categories = ["wasm", "web-programming"]
 readme = "README.md"
 
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
+
 [lib]
 crate-type = ["cdylib", "rlib"]
 

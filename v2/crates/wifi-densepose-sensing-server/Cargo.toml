@@ -11,6 +11,15 @@ keywords = ["wifi", "sensing", "server", "websocket", "csi"]
 categories = ["web-programming::http-server", "science"]
 readme = "README.md"
 
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
+
 [lib]
 name = "wifi_densepose_sensing_server"
 path = "src/lib.rs"

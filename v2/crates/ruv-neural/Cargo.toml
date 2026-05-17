@@ -30,6 +30,14 @@ documentation = "https://docs.rs/ruv-neural"
 keywords = ["neural", "brain", "topology", "mincut", "quantum-sensing"]
 categories = ["science", "algorithms"]
 
+[workspace.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 [workspace.dependencies]
 # Core utilities
 thiserror = "1.0"
