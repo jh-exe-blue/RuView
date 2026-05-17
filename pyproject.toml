@@ -9,10 +9,10 @@ description = "WiFi-based human pose estimation using CSI data and DensePose neu
 readme = "README.md"
 license = "MIT"
 authors = [
-    {name = "rUv", email = "ruv@ruv.net"}
+    {name = "Joonho Choi", email = "cc@exe.blue"}
 ]
 maintainers = [
-    {name = "rUv", email = "ruv@ruv.net"}
+    {name = "Joonho Choi", email = "cc@exe.blue"}
 ]
 keywords = [
     "wifi",
@@ -172,6 +172,16 @@ Documentation = "https://github.com/ruvnet/wifi-densepose#readme"
 Repository = "https://github.com/ruvnet/wifi-densepose.git"
 "Bug Tracker" = "https://github.com/ruvnet/wifi-densepose/issues"
 Changelog = "https://github.com/ruvnet/wifi-densepose/blob/main/CHANGELOG.md"
+ORCID = "https://orcid.org/0009-0006-7585-8185"
+Contact = "mailto:cc@exe.blue"
+
+[tool.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
 
 [project.scripts]
 wifi-densepose = "src.cli:cli"

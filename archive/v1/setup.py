@@ -117,10 +117,10 @@ setup(
     long_description_content_type="text/markdown",
     
     # Author information
-    author="rUv",
-    author_email="ruv@ruv.net",
-    maintainer="rUv",
-    maintainer_email="ruv@ruv.net",
+    author="Joonho Choi",
+    author_email="cc@exe.blue",
+    maintainer="Joonho Choi",
+    maintainer_email="cc@exe.blue",
     
     # URLs
     url="https://github.com/ruvnet/wifi-densepose",
@@ -128,6 +128,8 @@ setup(
         "Documentation": "https://github.com/ruvnet/wifi-densepose#readme",
         "Source": "https://github.com/ruvnet/wifi-densepose",
         "Tracker": "https://github.com/ruvnet/wifi-densepose/issues",
+        "ORCID": "https://orcid.org/0009-0006-7585-8185",
+        "Contact": "mailto:cc@exe.blue",
     },
     
     # Package configuration

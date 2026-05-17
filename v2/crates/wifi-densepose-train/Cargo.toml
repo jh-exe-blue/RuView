@@ -2,7 +2,7 @@
 name = "wifi-densepose-train"
 version = "0.3.1"
 edition = "2021"
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 license = "MIT OR Apache-2.0"
 description = "Training pipeline for WiFi-DensePose pose estimation"
 repository = "https://github.com/ruvnet/wifi-densepose"
@@ -10,6 +10,15 @@ documentation = "https://docs.rs/wifi-densepose-train"
 keywords = ["wifi", "training", "pose-estimation", "deep-learning"]
 categories = ["science", "computer-vision"]
 readme = "README.md"
+
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 
 [[bin]]
 name = "train"

@@ -4,12 +4,21 @@ version.workspace = true
 edition.workspace = true
 description = "Lightweight Axum server for WiFi sensing UI with RuVector signal processing"
 license.workspace = true
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 repository.workspace = true
 documentation = "https://docs.rs/wifi-densepose-sensing-server"
 keywords = ["wifi", "sensing", "server", "websocket", "csi"]
 categories = ["web-programming::http-server", "science"]
 readme = "README.md"
+
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 
 [lib]
 name = "wifi_densepose_sensing_server"

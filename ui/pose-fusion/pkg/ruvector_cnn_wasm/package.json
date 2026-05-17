@@ -22,5 +22,21 @@
     "wasm",
     "simd",
     "machine-learning"
-  ]
+  ],
+  "author": {
+    "name": "Joonho Choi",
+    "email": "cc@exe.blue",
+    "url": "https://orcid.org/0009-0006-7585-8185"
+  },
+  "homepage": "https://orcid.org/0009-0006-7585-8185",
+  "revaid": {
+    "origin": {
+      "id": "REVAID.ORIGIN",
+      "name": "Joonho Choi",
+      "email": "cc@exe.blue",
+      "link": "https://orcid.org/0009-0006-7585-8185",
+      "endpoint": "MURON",
+      "middleware": "REVAID.LINK"
+    }
+  }
 }

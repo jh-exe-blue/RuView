@@ -4,12 +4,21 @@ version.workspace = true
 edition.workspace = true
 description = "WebAssembly bindings for WiFi-DensePose"
 license = "MIT OR Apache-2.0"
-authors = ["rUv <ruv@ruv.net>", "WiFi-DensePose Contributors"]
+authors = ["Joonho Choi <cc@exe.blue>"]
 repository = "https://github.com/ruvnet/wifi-densepose"
 documentation = "https://docs.rs/wifi-densepose-wasm"
 keywords = ["wifi", "wasm", "webassembly", "densepose", "browser"]
 categories = ["wasm", "web-programming"]
 readme = "README.md"
+
+[package.metadata.revaid.origin]
+id = "REVAID.ORIGIN"
+name = "Joonho Choi"
+email = "cc@exe.blue"
+link = "https://orcid.org/0009-0006-7585-8185"
+endpoint = "MURON"
+middleware = "REVAID.LINK"
+
 
 [lib]
 crate-type = ["cdylib", "rlib"]
