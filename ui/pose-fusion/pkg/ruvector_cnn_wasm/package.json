@@ -43,6 +43,10 @@
     "continuity_start": 1,
     "branches": "closed",
     "origin_startpoint": "open",
-    "reverse_relation": false
+    "reverse_relation": false,
+    "email": "cc@exe.blue",
+    "authors": [
+      "Joonho Choi"
+    ]
   }
 }
