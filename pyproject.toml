@@ -174,7 +174,6 @@ Repository = "https://github.com/ruvnet/wifi-densepose.git"
 Changelog = "https://github.com/ruvnet/wifi-densepose/blob/main/CHANGELOG.md"
 ORCID = "https://orcid.org/0009-0006-7585-8185"
 Contact = "mailto:cc@exe.blue"
-Phone = "tel:+821071046821"
 
 [tool.revaid.origin]
 id = "REVAID.ORIGIN"

@@ -130,7 +130,6 @@ setup(
         "Tracker": "https://github.com/ruvnet/wifi-densepose/issues",
         "ORCID": "https://orcid.org/0009-0006-7585-8185",
         "Contact": "mailto:cc@exe.blue",
-        "Phone": "tel:+821071046821",
     },
     
     # Package configuration

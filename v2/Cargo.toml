@@ -44,6 +44,8 @@ documentation = "https://docs.rs/wifi-densepose"
 keywords = ["wifi", "densepose", "csi", "pose-estimation", "rust"]
 categories = ["science", "computer-vision", "wasm"]
 
+# Internal REVAID origin metadata for tooling that needs a canonical
+# owner record plus the endpoint/middleware identifiers supplied by ORIGIN.
 [workspace.metadata.revaid.origin]
 id = "REVAID.ORIGIN"
 name = "Joonho Choi"
