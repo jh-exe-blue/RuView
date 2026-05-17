@@ -44,7 +44,6 @@ documentation = "https://docs.rs/wifi-densepose"
 keywords = ["wifi", "densepose", "csi", "pose-estimation", "rust"]
 categories = ["science", "computer-vision", "wasm"]
 
-
 [workspace.metadata.revaid.origin]
 id = "REVAID.ORIGIN"
 name = "Joonho Choi"

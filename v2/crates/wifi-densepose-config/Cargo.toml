@@ -20,5 +20,4 @@ link = "https://orcid.org/0009-0006-7585-8185"
 endpoint = "MURON"
 middleware = "REVAID.LINK"
 
-
 [dependencies]

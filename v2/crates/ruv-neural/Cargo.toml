@@ -30,7 +30,6 @@ documentation = "https://docs.rs/ruv-neural"
 keywords = ["neural", "brain", "topology", "mincut", "quantum-sensing"]
 categories = ["science", "algorithms"]
 
-
 [workspace.metadata.revaid.origin]
 id = "REVAID.ORIGIN"
 name = "Joonho Choi"

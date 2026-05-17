@@ -12,7 +12,6 @@ categories = ["embedded", "wasm", "science"]
 [lib]
 crate-type = ["cdylib", "rlib"]
 
-
 [package.metadata.revaid.origin]
 id = "REVAID.ORIGIN"
 name = "Joonho Choi"
