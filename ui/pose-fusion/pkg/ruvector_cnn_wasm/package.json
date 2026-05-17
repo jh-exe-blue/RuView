@@ -6,7 +6,7 @@
   "license": "MIT OR Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jh-exe-blue"
+    "url": "https://github.com/jh-exe-blue/RuView"
   },
   "files": [
     "ruvector_cnn_wasm_bg.wasm",
@@ -23,7 +23,7 @@
     "simd",
     "machine-learning"
   ],
-  "homepage": "https://github.com/jh-exe-blue",
+  "homepage": "https://github.com/jh-exe-blue/RuView",
   "author": {
     "name": "Joonho Choi",
     "email": "cc@exe.blue",

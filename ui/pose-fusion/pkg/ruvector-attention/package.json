@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jh-exe-blue"
+    "url": "https://github.com/jh-exe-blue/RuView"
   },
   "files": [
     "ruvector_attention_wasm_bg.wasm",
@@ -13,7 +13,7 @@
     "ruvector_attention_wasm.d.ts"
   ],
   "main": "ruvector_attention_wasm.js",
-  "homepage": "https://github.com/jh-exe-blue",
+  "homepage": "https://github.com/jh-exe-blue/RuView",
   "types": "ruvector_attention_wasm.d.ts",
   "keywords": [
     "wasm",

@@ -117,17 +117,17 @@ setup(
     long_description_content_type="text/markdown",
     
     # Author information
-    author="rUv",
-    author_email="ruv@ruv.net",
-    maintainer="rUv",
-    maintainer_email="ruv@ruv.net",
+    author="Joonho Choi",
+    author_email="cc@exe.blue",
+    maintainer="Joonho Choi",
+    maintainer_email="cc@exe.blue",
     
     # URLs
-    url="https://github.com/ruvnet/wifi-densepose",
+    url="https://github.com/jh-exe-blue/RuView",
     project_urls={
-        "Documentation": "https://github.com/ruvnet/wifi-densepose#readme",
-        "Source": "https://github.com/ruvnet/wifi-densepose",
-        "Tracker": "https://github.com/ruvnet/wifi-densepose/issues",
+        "Documentation": "https://github.com/jh-exe-blue/RuView",
+        "Source": "https://github.com/jh-exe-blue/RuView",
+        "Tracker": "https://github.com/jh-exe-blue/RuView/issues",
     },
     
     # Package configuration

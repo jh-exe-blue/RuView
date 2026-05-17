@@ -167,11 +167,11 @@ deployment = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/jh-exe-blue"
-Documentation = "https://github.com/jh-exe-blue"
-Repository = "https://github.com/jh-exe-blue"
-"Bug Tracker" = "https://github.com/jh-exe-blue"
-Changelog = "https://github.com/jh-exe-blue"
+Homepage = "https://github.com/jh-exe-blue/RuView"
+Documentation = "https://github.com/jh-exe-blue/RuView"
+Repository = "https://github.com/jh-exe-blue/RuView"
+"Bug Tracker" = "https://github.com/jh-exe-blue/RuView/issues"
+Changelog = "https://github.com/jh-exe-blue/RuView/blob/main/CHANGELOG.md"
 
 [project.scripts]
 wifi-densepose = "src.cli:cli"
